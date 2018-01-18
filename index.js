@@ -1,5 +1,5 @@
 const kittens=['Milo', 'Otis', 'Garfield']
-function  kittens{
+function  kittens(){
   var kittens=["Milo", "Otis", "Garfield"]
   console.log(kittens)
 }
