@@ -5,6 +5,6 @@ function  kittens(){
 }
 
 function destructivelyAppendKitten(x){
-kittens=[...kittens,x]
+  kittens.push(x)
 console.log(kittens)
 }
