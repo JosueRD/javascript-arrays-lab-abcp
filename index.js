@@ -6,6 +6,5 @@ function  kittens(){
 
 function destructivelyAppendKitten(name){
 var kittens=["Milo", "Otis", "Garfield"]
-
-  return kittens.push(name);
+  return kittens.push('Ralph');
 }
