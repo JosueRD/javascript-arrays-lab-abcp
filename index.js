@@ -1,1 +1,4 @@
-const Kittens = ["Milo", "Otis", "Garfield"]
+
+function  destructivelyAppendKitten(name){
+  appendKitten
+}
