@@ -12,3 +12,7 @@ function destructivelyPrependKitten(x){
   kittens.unshift(x)
 console.log(kittens)
 }
+function destructivelyRemoveLastKitten(){
+  kittens.pop()
+console.log(kittens)
+}
