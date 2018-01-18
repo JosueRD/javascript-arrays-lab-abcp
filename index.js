@@ -5,7 +5,6 @@ function  kittens(){
 }
 
 function destructivelyAppendKitten(){
-var kittens=["Milo", "Otis", "Garfield"]
 kittens=[...kittens,'Ralph']
 console.log(kittens)
 }
