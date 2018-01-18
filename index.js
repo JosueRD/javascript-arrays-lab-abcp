@@ -4,7 +4,7 @@ function  kittens(){
   console.log(kittens)
 }
 
-function destructivelyAppendKitten(){
-kittens=[...kittens,'Ralph']
+function destructivelyAppendKitten(x){
+kittens=[...kittens,x]
 console.log(kittens)
 }
