@@ -5,6 +5,7 @@ function  kittens(){
 }
 function destructivelyAppendKitten(name){
   var kittens
-  kittens.push[name]
+  x= name
+  kittens.push(x)
   console.log(kittens)
 }
