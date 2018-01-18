@@ -1,4 +1,5 @@
-const kittens=["Milo", "Otis", "Garfield"]
-function  destructivelyAppendKitten(name){
-  appendkittens("bunny")
+const kittens=['Milo', 'Otis', 'Garfield']
+function  kittens(){
+  var kittens=["Milo", "Otis", "Garfield"]
+  console.log(kittens)
 }
